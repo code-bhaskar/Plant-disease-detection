@@ -27,7 +27,10 @@ The following Python packages are required:
 *   matplotlib
 *   opencv-python (cv2)
 *   scikit-learn
-*   kagglehub
+
+##
+
+Model link: https://drive.google.com/file/d/1gTUllvoZMRP4HBXMK7TBv2YhqZHXVjyl/view?usp=share_link
 
 
 
